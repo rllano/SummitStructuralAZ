@@ -3,11 +3,11 @@ SummitStructuralAZ
 
 Marketing website - Capstone project
 
-Client:		Summit Structural Az
+Client:		Summit Structural AZ
 
 Team Members:	Erin Sherman
-		          Steve Padilla
-		          Roberto Llano
+		Steve Padilla
+		Roberto Llano
 
 Project:	Marketing Website
 
