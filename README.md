@@ -13,7 +13,7 @@ Team Members:
 
 Project:	Marketing Website
 
-Technology to be used: Java, HTML
+Technology to be used: Java, HTML, WordPress, Google Analytics
 
 Read Me: Version 1.0
 Meeting: Wednesday, September 10th at Noon
