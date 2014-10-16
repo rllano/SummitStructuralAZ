@@ -10,6 +10,7 @@ Team Members:
 		Erin Sherman
 		Steve Padilla
 		Roberto Llano
+		Henok
 
 Project:	Marketing Website
 
